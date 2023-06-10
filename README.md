@@ -1,5 +1,7 @@
 # Scrimba---Personal-Website-Landing-Page
-website landing page
+
+PERSONAL WEBSITE LANDING PAGE
+
 In early June 2023, I started the Frontend Developer Career Path with Scrimba. I had been working through Module 2: Web Dev Basics, in a chapter entitled, "Build & deploy your first website".
 As well as being introduced to some more basic elements within HTML, CSS (and a teensy introduction to JavaScript), the chapter culminated in learning to build a simple personal website landing page.
 
